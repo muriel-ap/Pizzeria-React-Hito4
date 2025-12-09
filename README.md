@@ -1,4 +1,4 @@
-# 💻 Hito 3 Módulo React: Pizzería Mamma Mía.
+# 💻 Hito 4 Módulo React: Pizzería Mamma Mía.
 
 ## 📝 Descripción
 Consume una API de pizzas para mostrar información de productos, incluyendo nombre, ingredientes, precio, descripción e imagen.
